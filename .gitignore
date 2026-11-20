@@ -20,9 +20,6 @@ __pycache__/
 *.tmp
 *.log
 
-# Dados processados gerados localmente
-data/processed/
-
 # Sistema operacional
 .DS_Store
 Thumbs.db
