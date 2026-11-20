@@ -1,0 +1,28 @@
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Configurações locais
+.env
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Dados processados gerados localmente
+data/processed/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
